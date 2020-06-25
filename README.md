@@ -7,7 +7,7 @@ Adds support to ActiveRecord for the PostgreSQL cube data type.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'activerecord-postgresql-cube'
+gem 'postgresql-cube'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install activerecord-postgresql-cube
+    $ gem install postgresql-cube
 
 ## Usage
 
@@ -64,7 +64,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/quadule/activerecord-postgresql-cube.
+Bug reports and pull requests are welcome on GitHub at https://github.com/CandyFet/postgres-cube.
 
 ## License
 
